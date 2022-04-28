@@ -25,8 +25,3 @@
 [![jaemin05's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaemin05&theme=ayu-mirage&show_icons=true)](https://github.com/jaemin05/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaemin05&theme=blueberry)](https://github.com/jaemin05/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaemin05&repo=study&theme=rose_pine)](https://github.com/jaemin05/study)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaemin05&repo=Spring-boot&theme=rose_pine)](https://github.com/jaemin05/Spring-boot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BJ-Team&repo=BJ_ISFP_Backend&theme=rose_pine)](https://github.com/BJ-Team/BJ_ISFP_Backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DSM-DIARY2022&repo=DIARY_backend&theme=rose_pine)](https://github.com/DSM-DIARY2022/DIARY_backend)
