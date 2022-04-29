@@ -23,5 +23,4 @@
 </br>
 
 [![jaemin05's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaemin05&theme=ayu-mirage&show_icons=true)](https://github.com/jaemin05/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaemin05&theme=blueberry)](https://github.com/jaemin05/github-readme-stats)
